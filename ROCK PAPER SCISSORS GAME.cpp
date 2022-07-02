@@ -30,7 +30,7 @@ int result(int player, int computer){
         }
         else if(computer==3 && player==2){
             return 0;
-        }
+        } 
         else if(computer==2 && player==3){
             return 1;
         }
